@@ -20,6 +20,6 @@ The objective of this project is to analyze datasets related to user behavior, c
 3. Orders by Hour: By showing how orders are distributed across the day, this will help identify peak business hours and inform decisions on operational improvements or promotional timings.
    - Number of orders were highest during 'night'
 4. Age Group Spending: This gives insights into how much each age group is spending, which can inform marketing strategies and product offerings tailored to specific age demographics.
-   -Highet spendings was done by age group 25-35
-5. Location-Based Spending: A location-based spending analysis highlights regions with the highest demand, helping target locations for new business initiatives.
-   -New York, Chicago and Los Angeles locations were the top contributors to overall revenue.
+   - Highet spendings was done by age group 25-35
+6. Location-Based Spending: A location-based spending analysis highlights regions with the highest demand, helping target locations for new business initiatives.
+   - New York, Chicago and Los Angeles locations were the top contributors to overall revenue.
